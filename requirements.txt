@@ -1,0 +1,8 @@
+rdflib
+pyshacl
+pdfminer.six
+lightrag-hku
+nano-vectordb
+torch
+transformers
+huggingface_hub

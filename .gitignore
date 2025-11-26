@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv/
+venv/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+output/
+upload/*.zip
+upload/*.icdd
+
+# Logs, misc
+*.log
+*.tmp
