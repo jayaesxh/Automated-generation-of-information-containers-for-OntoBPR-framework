@@ -2,7 +2,7 @@
 
 This project provides a full-stack pipeline for transforming raw building-permit submissions into fully compliant **ISO 21597-1 information containers (ICDD)** enriched with **OntoBPR semantics**. It integrates preprocessing, retrieval-augmented generation (RAG), large-language-model (LLM) extraction, and graph mapping in a single automated workflow.
 
-## Why this matters
+
 
 Building-permit applications typically bundle many disparate documents forms, plans, statements, scans which hinder machine reasoning. The emerging **OntoBPR ontology** and the **ISO 21597 Information Containers (ICDD)** standard aim to encode these documents and their semantics uniformly. This pipeline bridges the gap between raw submissions and a high-fidelity semantic container by:
 
